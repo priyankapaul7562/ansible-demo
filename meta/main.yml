@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Dinesh
+  description: 
+  company: MicroPyramid
+  license: MIT
+  min_ansible_version: 1.2
+  
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - vivid
+    - precise
+  
+  categories:
+  - web
+  - nginx
+
+dependencies: []
